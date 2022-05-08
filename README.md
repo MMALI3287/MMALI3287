@@ -42,13 +42,25 @@
 
 ### Most Used Languages
 
-  <img align="left" alt="MMALI's Most Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&langs_count=10" />
+  <img align="left" alt="MMALI's Most Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&langs_count=9" />
 	<br />
 <br />
 <br />
 <br />
 <br />
 <br />
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
+<br /> 
 <br /> 
   <h3>GitHub Stats</h3>
 
