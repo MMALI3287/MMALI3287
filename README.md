@@ -9,10 +9,10 @@
 
 ### Connect with me
 
-<a href="https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="C" alt="C" height="40"/></a>&nbsp;
-<a href="https://twitter.com/MusaddiqueMMALI"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" title="C" alt="C"  height="40"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" title="C" alt="C" height="40"/></a>&nbsp;
-<a href="https://www.instagram.com/mdmusaddiquealierfan/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" title="C" alt="C" height="40"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" title="YouTube" alt="YouTube" height="40"/></a>&nbsp;
+<a href="https://twitter.com/MusaddiqueMMALI"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter" alt="Twitter"  height="40"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" title="LinkedIn" alt="LinkedIn" height="40"/></a>&nbsp;
+<a href="https://www.instagram.com/mdmusaddiquealierfan/"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" title="Instagram" alt="Instagram" height="40"/></a>&nbsp;
 
 ### Languages and Tools
 
