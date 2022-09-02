@@ -87,4 +87,5 @@
 [youtube]: https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured
 [instagram]: https://www.instagram.com/mdmusaddiquealierfan/
 [linkedin]: https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/
-<figure><embed src="https://wakatime.com/share/@MMALI3287/1ef9cd43-7abe-41e3-bb0f-a25a62dfccd7.svg"></embed></figure>
+
+<img align="left" alt="MMALI's GitHub Stats" src="https://wakatime.com/share/@MMALI3287/1ef9cd43-7abe-41e3-bb0f-a25a62dfccd7.svg" />
