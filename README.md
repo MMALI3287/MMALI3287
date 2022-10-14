@@ -45,8 +45,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <br />
-![Profile views](https://gpvc.arturio.dev/MMALI3287)  
 <br />
+![Profile views](https://gpvc.arturio.dev/MMALI3287)  
 
 ---
 
