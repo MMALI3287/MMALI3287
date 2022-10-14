@@ -21,6 +21,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -33,9 +35,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-<br />
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
 <br />
 ![Profile views](https://gpvc.arturio.dev/MMALI3287)  
 <br />
@@ -45,65 +53,23 @@
 ### Most Used Languages
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
- <br /><br /><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
-  <h3>GitHub Stats</h3>
-  <img align="center" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MMALI3287&show_icons=true&theme=nightowl&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />  
- <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-  <h3>Time Stats</h3>
-
-  <img align="center" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287" />
+### Github Stats
+  <img align="center" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MMALI3287&show_icons=true&theme=nightowl&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 [twitter]: https://twitter.com/MusaddiqueMMALI
 [youtube]: https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured
 [instagram]: https://www.instagram.com/mdmusaddiquealierfan/
 [linkedin]: https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/
 
-<img align="center" alt="MMALI's GitHub Stats" src="https://wakatime.com/share/@MMALI3287/1ef9cd43-7abe-41e3-bb0f-a25a62dfccd7.svg" />
+### Language Over All Time
+<img align="center" alt="MMALI's Language Over All TIme" src="https://wakatime.com/share/@MMALI3287/c924063d-0fa9-495c-beba-e7a71b12eeaf.svg" />
 
- <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=MMALI3287&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+### Time Stats
+<img align="center" alt="MMALI's Time Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287" />
+
+### Streak
+<img align="center" alt="MMALI's Streaks" src="https://streak-stats.demolab.com?user=MMALI3287&theme=nightowl&date_format=j%20M%5B%20Y%5D" />
+
+### Language Written
+<img align="center" alt="MMALI's Lines Written" src="https://api.githubtrends.io/user/svg/MMALI3287/langs" />
