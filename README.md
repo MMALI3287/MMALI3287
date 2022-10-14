@@ -44,10 +44,8 @@
 
 ### Most Used Languages
 
-  <img align="left" alt="MMALI's Most Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&langs_count=10" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
  <br /><br /><br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -68,8 +66,7 @@
 <br />
 
   <h3>GitHub Stats</h3>
-
-  <img align="left" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MMALI3287&show_icons=true&theme=synthwave&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />  
+  <img align="center" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MMALI3287&show_icons=true&theme=nightowl&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />  
  <br />
 <br />
 <br />
@@ -81,11 +78,32 @@
 <br />
   <h3>Time Stats</h3>
 
-  <img align="left" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287" />
+  <img align="center" alt="MMALI's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287" />
 
 [twitter]: https://twitter.com/MusaddiqueMMALI
 [youtube]: https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured
 [instagram]: https://www.instagram.com/mdmusaddiquealierfan/
 [linkedin]: https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/
 
-<img align="left" alt="MMALI's GitHub Stats" src="https://wakatime.com/share/@MMALI3287/1ef9cd43-7abe-41e3-bb0f-a25a62dfccd7.svg" />
+<img align="center" alt="MMALI's GitHub Stats" src="https://wakatime.com/share/@MMALI3287/1ef9cd43-7abe-41e3-bb0f-a25a62dfccd7.svg" />
+
+ <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MMALI3287&theme=nightowl&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
