@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Musaddique Ali
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=Game+Developer+%F0%9F%8E%AE;Full+Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Open+Source+Contributor+%E2%9C%A8;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+%F0%9F%92%BC;CSE+Graduate+@+AUST+%F0%9F%8E%93;Flutter+%26+Unity+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A;Problem+Solver+%F0%9F%A7%A9)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" alt="Rainbow separator">
 
@@ -12,13 +12,13 @@
 
 </div>
 
-🎮 **Game Developer** passionate about creating immersive experiences  
-🚀 **Full Stack Developer** building the next generation of web applications  
-📚 **Lifelong Learner** exploring new technologies and frameworks  
-🎯 **2025 Goals**: Master advanced game development & contribute to major open source projects  
-⚡ **Fun Fact**: I debug code faster when listening to epic soundtracks 🎵  
+🎮 **Software Engineer** at Teton Private Ltd with expertise in Flutter & Unity development  
+🎓 **Computer Science Engineering Student** @ Ahsanullah University of Science and Technology  
+👨‍💻 **Full Stack Developer** specializing in mobile apps, web applications and game development  
+🎯 **2025 Goals**: Complete CSE degree, advance in software engineering, and build innovative solutions
+
 📧 **Let's Connect**: [erfanali3287@gmail.com](mailto:erfanali3287@gmail.com)  
-🌐 **Portfolio**: [mmali3287.github.io](https://mmali3287.github.io/)  
+🌐 **Portfolio**: [musaddiqueali.com](https://musaddiqueali.com)  
 📄 **Resume**: [View My Experience](https://github.com/MMALI3287/MMALI3287.github.io/blob/master/assets/images/resume.pdf)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
@@ -27,14 +27,11 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOQ46tAOAgaoleSiUwf8A1w/featured)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Musaddique_MMALI)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MusaddiqueMMALI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-musaddique-ali-erfan-858720212/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdmusaddiquealierfan/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musaddique-ali/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanali3287@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmali3287.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://musaddiqueali.com/)
 
 </div>
 
@@ -42,32 +39,36 @@
 
 ## 🎯 Current Focus & Goals
 
-<table>
+<div align="center">
+
+<table width="100%" style="width: 100%; margin: 0 auto;">
 <tr>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🔥 What I'm Working On
 
-- 🎮 **Advanced Game Mechanics** in Unity
-- 🌐 **Full Stack Web Applications**
-- 🤖 **AI/ML Integration** in Games
-- 📱 **Cross-Platform Mobile Apps**
-- 🚀 **Open Source Contributions**
+- 📱 **Flutter Mobile Development** @ Teton Private Ltd
+- 🎮 **Unity Game Optimization**
+- 🐛 **Quality Assurance & Bug Testing** for 5+ applications
+- 🌐 **Enterprise Web Applications** with ASP.NET & React
+- 🎓 **Completing CSE Degree** @ AUST
 
 </td>
-<td width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🎯 2025 Objectives
 
-- 🏆 Launch 2 complete game projects
-- 📈 Contribute to 10+ open source repos
-- 🎓 Complete advanced game dev certification
-- 🌍 Build a gaming community
-- 💼 Land dream tech role
+- 🎓 Graduate with CSE degree from AUST
+- 🚀 Advance to Senior Software Engineer role
+- 📱 Launch personal mobile app projects
+- 🏆 Contribute to open source projects
+- 💡 Build innovative solutions in fintech/edtech
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
@@ -78,21 +79,21 @@
 ### 🎮 Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 ### 🌐 Web Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📱 Mobile Development
 
@@ -104,41 +105,44 @@
 
 ### 🗄️ Database & Cloud
 
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔧 Tools & IDEs
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 
-### 🎨 Design & Creative
+### 🎨 Development Tools & Frameworks
 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-657D8B?style=for-the-badge&logo=gimp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Material Design](https://img.shields.io/badge/Material%20Design-0081CB?style=for-the-badge&logo=material-design&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
 ### 🖥️ Programming Languages
 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### 🖥️ Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 </div>
 
@@ -201,40 +205,18 @@
 
 ### 📅 WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287&theme=tokyonight&hide_border=true&layout=compact&langs_count=24&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
 
 </td>
 <td width="50%">
 
-### ⌚ Development Metrics
+### 📊 Major Languages
 
-<img src="https://wakatime.com/share/@MMALI3287/c924063d-0fa9-495c-beba-e7a71b12eeaf.svg" alt="Language Usage Over Time" />
+<img src="https://wakatime.com/share/@MMALI3287/4f60c130-7512-4a27-85f6-2a6b8082c99d.svg" alt="Major Languages Usage" />
 
 </td>
 </tr>
 </table>
-
-### 📊 Detailed Coding Activity
-
-<img src="https://api.githubtrends.io/user/svg/MMALI3287/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark" alt="GitHub Trends" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
-
-## 🎵 What I'm Listening To
-
-<div align="center">
-
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
-
-_Click the image to see what I'm currently listening to on Spotify!_
-
-### 🎧 Recently Played
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
@@ -247,6 +229,87 @@ _Click the image to see what I'm currently listening to on Spotify!_
 ### 📚 Programming Wisdom
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
+
+## 💼 Professional Experience
+
+<div align="center">
+
+<table width="100%" style="width: 100%; margin: 0 auto;">
+<tr>
+<td align="left" valign="top">
+
+### 🚀 **Software Engineer** - Teton Private Ltd
+
+**📅 Aug 2022 - July 2025 | 📍 Dhaka, Bangladesh**
+
+**🎯 Key Achievements:**
+
+- 📱 **Developed Flutter modules** for mobile app development
+- 🐛 **Executed QA & bug testing** for 5+ hardware and software applications
+- 🎮 **Achieved 25% performance increase** in Unity game optimization
+- ✅ **Streamlined code review processes** for 10+ modules with 100% compliance
+- 👥 **Collaborated with senior engineers** on in-house mobile app projects
+- 🧩 **Applied OOP principles** to develop efficient and maintainable code
+
+**🛠️ Technologies Used:**
+Flutter, Unity, Dart, C#, Object-Oriented Programming
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+<table width="100%" style="width: 100%; margin: 0 auto;">
+<tr>
+<td width="60%" align="left" valign="top">
+
+### 🎓 **BSc in Computer Science and Engineering**
+
+**🏫 Ahsanullah University of Science and Technology (AUST)**  
+**📅 Jun 2021 - May 2025 | 📍 Tejgaon, Dhaka**  
+**📊 CGPA: 3.392**
+
+### 🏆 **Leadership Experience**
+
+**🤖 AUST Robotics Club - Executive Panel Member**  
+**📅 Jan 2022 - Jun 2023**
+
+- Organized inaugural AUSTRC National Fest
+- Enhanced event management and teamwork skills
+- Developed leadership through collaborative planning
+
+</td>
+<td width="40%" align="center" valign="top">
+
+### 📜 **Certifications**
+
+![IT Engineers](https://img.shields.io/badge/IT%20Engineers%20Exam-Apr%202024-success?style=for-the-badge&logo=certificate&logoColor=white)
+
+**Information Technology Engineers Examination (FE)**  
+_Bangladesh IT-engineers Examination Center_  
+_April 2024_
+
+**Skills Gained:**
+
+- 🖥️ Software Development Fundamentals
+- 🌐 Networking Concepts
+- 🗄️ Database Management
+- 🧩 Problem-solving & Technical Challenges
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -336,16 +399,48 @@ _Click the image to see what I'm currently listening to on Spotify!_
 <tr>
 <td width="50%">
 
-[![Game Project](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=MMALI3287.github.io&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/MMALI3287.github.io)
+[![Word Maestro](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=Word-Maestro&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/Word-Maestro)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=MMALI3287&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/MMALI3287)
+[![Resort Administration](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=Resort-Administration&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/Resort-Administration)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![ReUse Platform](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=ReUse&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/ReUse)
+
+</td>
+<td width="50%">
+
+[![ScholarSphere](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=ScholarSphere&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/ScholarSphere)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[![DecorateMyNest Backend](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=DecorateMyNestBackend&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/DecorateMyNestBackend)
+
+</td>
+<td width="50%">
+
+[![DecorateMyNest Frontend](https://github-readme-stats.vercel.app/api/pin/?username=MMALI3287&repo=DecorateMyNestFrontend&theme=tokyonight&hide_border=true)](https://github.com/MMALI3287/DecorateMyNestFrontend)
 
 </td>
 </tr>
 </table>
+
+### 🚀 Project Highlights
+
+**🎮 Word Maestro (2022)** - C++ educational game with OpenGL graphics and irrKlang audio engine  
+**🏨 Resort Administration (2022)** - Java-based resort management system with MySQL database  
+**♻️ ReUse Platform (2023)** - Android donation app with Firebase and Google Maps integration  
+**🎓 ScholarSphere (2023)** - PHP university admission platform with comprehensive features  
+**🏠 DecorateMyNest (2024)** - Full-stack interior design management system (ASP.NET + React)
 
 ### 🌟 Repository Highlights
 
@@ -506,27 +601,38 @@ _Refresh the page for a new joke! 😄_
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
-## 🏅 Badges & Certifications
+## 🏅 Professional Certifications & Achievements
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### 🎓 Certifications
 
-![Unity Certified](https://img.shields.io/badge/Unity-Certified%20User-black?style=for-the-badge&logo=unity)
-![Google Developer](https://img.shields.io/badge/Google-Developer-4285F4?style=for-the-badge&logo=google)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)
+![IT Engineers FE](https://img.shields.io/badge/IT%20Engineers%20FE-April%202024-success?style=for-the-badge&logo=certificate&logoColor=white)
+![AUST CSE](https://img.shields.io/badge/AUST%20CSE-CGPA%203.392-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Professional](https://img.shields.io/badge/Software%20Engineer-3%20Years-green?style=for-the-badge&logo=briefcase&logoColor=white)
+
+**Information Technology Engineers Examination (FE)**  
+_Bangladesh IT-engineers Examination Center - April 2024_
 
 </td>
-<td>
+<td width="50%">
 
-### 🏆 Achievements
+### 🏆 Achievements & Recognition
 
-![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=hacktoberfest)
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=open-source-initiative)
+![Leadership](https://img.shields.io/badge/AUST%20Robotics%20Club-Executive%20Member-orange?style=for-the-badge&logo=robot&logoColor=white)
+![Performance](https://img.shields.io/badge/Unity%20Optimization-25%25%20Boost-purple?style=for-the-badge&logo=unity&logoColor=white)
+![Quality](https://img.shields.io/badge/Code%20Review-100%25%20Compliance-brightgreen?style=for-the-badge&logo=check-circle&logoColor=white)
+
+**Professional Achievements:**
+
+- 🎮 25% Unity performance optimization
+- 🐛 QA testing for 5+ applications
+- ✅ 100% code review compliance
+- 👥 AUSTRC National Fest organizer
 
 </td>
 </tr>
