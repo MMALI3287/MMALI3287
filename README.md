@@ -6,11 +6,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px" alt="Rainbow separator">
 
+</div>
+
 ### 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-</div>
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 🎮 **Software Engineer** at Teton Private Ltd with expertise in Flutter & Unity development  
 🎓 **Computer Science Engineering Student** @ Ahsanullah University of Science and Technology  
@@ -47,10 +47,10 @@
 
 ### 🔥 What I'm Working On
 
-- 📱 **Flutter Mobile Development** @ Teton Private Ltd
+- 📱 **Flutter Development** @ Teton Private Ltd
 - 🎮 **Unity Game Optimization**
-- 🐛 **Quality Assurance & Bug Testing** for 5+ applications
-- 🌐 **Enterprise Web Applications** with ASP.NET & React
+- 🐛 **Quality Assurance & Bug Testing**
+- 🌐 **Enterprise Web App** with ASP.NET & React
 
 </td>
 <td width="50%" valign="top">
@@ -108,8 +108,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🔧 Tools & IDEs
 
@@ -224,10 +222,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 
-### 📚 Programming Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
-
 ### 😄 Programming Humor
 
 <img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=tokyonight&hideBorder" alt="Programming Joke" />
@@ -273,7 +267,7 @@ Flutter, Unity, Dart, C#, Object-Oriented Programming
 
 <table width="100%" style="width: 100%; margin: 0 auto;">
 <tr>
-<td width="60%" align="left" valign="top">
+<td width="50%" align="left" valign="top">
 
 ### 🎓 **BSc in Computer Science and Engineering**
 
@@ -290,7 +284,7 @@ Flutter, Unity, Dart, C#, Object-Oriented Programming
 - Developed leadership through collaborative planning
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
 ### 📜 **Certifications**
 
@@ -456,7 +450,9 @@ _April 2024_
 
 <!-- Quick Games Section -->
 
-[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.google.com/search?q=snake+game+play+online) [![Tetris Game](https://img.shields.io/badge/🎲%20Tetris-Play%20Online-blue?style=for-the-badge&logo=gamepad&logoColor=white)](https://tetris.com/play-tetris) [![Coding Game](https://img.shields.io/badge/💻%20Coding%20Challenge-Test%20Skills-purple?style=for-the-badge&logo=code&logoColor=white)](https://www.codingame.com/start) [![2048 Game](https://img.shields.io/badge/🔢%202048%20Puzzle-Play%20Now-orange?style=for-the-badge&logo=gamepad2&logoColor=white)](https://play2048.co/)
+[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.google.com/search?q=snake+game+play+online) [![Tetris Game](https://img.shields.io/badge/🎲%20Tetris-Play%20Online-blue?style=for-the-badge&logo=gamepad&logoColor=white)](https://tetris.com/play-tetris)
+
+[![Coding Game](https://img.shields.io/badge/💻%20Coding%20Challenge-Test%20Skills-purple?style=for-the-badge&logo=code&logoColor=white)](https://www.codingame.com/start) [![2048 Game](https://img.shields.io/badge/🔢%202048%20Puzzle-Play%20Now-orange?style=for-the-badge&logo=gamepad2&logoColor=white)](https://play2048.co/)
 
 ### 💬 Ask Me Anything!
 
@@ -466,14 +462,14 @@ _April 2024_
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="50%">
 
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanali3287@gmail.com?subject=Hello%20Musaddique!)
 
 </td>
 
 </td>
-<td align="center">
+<td align="center" width="50%">
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-FF5722?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MMALI3287/MMALI3287.github.io/blob/master/assets/images/resume.pdf)
 
@@ -506,25 +502,29 @@ _April 2024_
 <tr>
 <td align="center">
 
-**🎯 Game Development**  
+**🎯 Game Development**
+
 [![Unity Projects](https://img.shields.io/badge/Unity-Projects-black?style=for-the-badge&logo=unity)](https://github.com/MMALI3287?tab=repositories&q=unity&type=&language=&sort=)
 
 </td>
 <td align="center">
 
-**🌐 Web Development**  
+**🌐 Web Development**
+
 [![Web Projects](https://img.shields.io/badge/Web-Projects-blue?style=for-the-badge&logo=react)](https://github.com/MMALI3287?tab=repositories&q=web&type=&language=&sort=)
 
 </td>
 <td align="center">
 
-**📱 Mobile Apps**  
+**📱 Mobile Apps**
+
 [![Mobile Projects](https://img.shields.io/badge/Mobile-Apps-green?style=for-the-badge&logo=flutter)](https://github.com/MMALI3287?tab=repositories&q=flutter&type=&language=&sort=)
 
 </td>
 <td align="center">
 
-**💻 Java Projects**  
+**💻 Java Projects**
+
 [![Java Projects](https://img.shields.io/badge/Java-Projects-red?style=for-the-badge&logo=java)](https://github.com/MMALI3287?tab=repositories&q=java&type=&language=&sort=)
 
 </td>
@@ -579,6 +579,7 @@ _April 2024_
 <img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source" />
 <img src="https://forthebadge.com/images/badges/made-with-markdown.svg" alt="Made with Markdown" />
 
+<br>
 **"Code is poetry written in logic"** ✨
 
 ### 🌟 Profile Stats
