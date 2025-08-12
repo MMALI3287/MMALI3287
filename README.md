@@ -330,17 +330,18 @@ _April 2024_
 
 <div align="center">
 
+<!-- These badges will be auto-updated by GitHub Actions every 30 minutes -->
 ![Current Time](https://img.shields.io/badge/🕐%20Current%20Time-Loading...-blue?style=for-the-badge&logo=clock&logoColor=white)
 
 ![Today's Date](https://img.shields.io/badge/📅%20Today-August%2012,%202025-green?style=for-the-badge&logo=calendar&logoColor=white)
 
 ![Timezone](https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh%20(GMT+6)-orange?style=for-the-badge&logo=world&logoColor=white)
 
+<!-- Live dynamic time from World Time API -->
+![Live Time](https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/timezone/Asia/Dhaka&query=$.datetime&logo=clock&logoColor=white&label=🕐%20Live%20Time&color=brightgreen&style=for-the-badge&prefix=&suffix=%20(Auto-Updates))
+
 <!-- Auto-updated every 30 minutes via GitHub Actions -->
 ![Last Updated](https://img.shields.io/badge/⚡%20Auto%20Updates-Every%2030%20Minutes-purple?style=for-the-badge&logo=github-actions&logoColor=white)
-
-<!-- Real-time timezone info -->
-<img src="https://img.shields.io/badge/dynamic/json?color=2ea44f&style=for-the-badge&logo=clock&logoColor=white&label=TimeZone&query=$.abbreviation&url=https://worldtimeapi.org/api/timezone/Asia/Dhaka" alt="Current Timezone" />
 
 </div>
 
