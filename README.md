@@ -321,7 +321,17 @@ _April 2024_
 
 ### 🌤️ Current Weather
 
-[![Weather](https://wttr.in/Dhaka.png?0&theme=dark)](https://wttr.in/Dhaka)
+<!-- Modern Weather Badges -->
+![Weather Location](https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh-orange?style=for-the-badge&logo=location&logoColor=white)
+
+![Weather Status](https://img.shields.io/badge/🌤️%20Weather-Tropical%20Climate-brightgreen?style=for-the-badge&logo=sun&logoColor=white)
+
+![Temperature](https://img.shields.io/badge/�️%20Temperature-28°C%20-%2032°C-blue?style=for-the-badge&logo=thermometer&logoColor=white)
+
+![Humidity](https://img.shields.io/badge/💧%20Humidity-High%20(Monsoon%20Season)-lightblue?style=for-the-badge&logo=droplet&logoColor=white)
+
+<!-- Live weather link -->
+[![Live Weather](https://img.shields.io/badge/📊%20Live%20Weather%20Forecast-AccuWeather-red?style=for-the-badge&logo=weather&logoColor=white)](https://www.accuweather.com/en/bd/dhaka/28143/weather-forecast/28143)
 
 </td>
 <td width="50%">
@@ -331,17 +341,12 @@ _April 2024_
 <div align="center">
 
 <!-- These badges will be auto-updated by GitHub Actions every 30 minutes -->
+
 ![Current Time](https://img.shields.io/badge/🕐%20Current%20Time-Loading...-blue?style=for-the-badge&logo=clock&logoColor=white)
 
 ![Today's Date](https://img.shields.io/badge/📅%20Today-August%2012,%202025-green?style=for-the-badge&logo=calendar&logoColor=white)
 
-![Timezone](https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh%20(GMT+6)-orange?style=for-the-badge&logo=world&logoColor=white)
-
-<!-- Live dynamic time from World Time API -->
-![Live Time](https://img.shields.io/badge/dynamic/json?url=https://worldtimeapi.org/api/timezone/Asia/Dhaka&query=$.datetime&logo=clock&logoColor=white&label=🕐%20Live%20Time&color=brightgreen&style=for-the-badge&prefix=&suffix=%20(Auto-Updates))
-
-<!-- Auto-updated every 30 minutes via GitHub Actions -->
-![Last Updated](https://img.shields.io/badge/⚡%20Auto%20Updates-Every%2030%20Minutes-purple?style=for-the-badge&logo=github-actions&logoColor=white)
+![Timezone](<https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh%20(GMT+6)-orange?style=for-the-badge&logo=world&logoColor=white>)
 
 </div>
 
@@ -359,14 +364,14 @@ _April 2024_
 
 <table>
 <tr>
-<td width="25%">
+<td width="25%" align="center">
 
 ### 👥 Visitors
 
 <img src="https://komarev.com/ghpvc/?username=MMALI3287&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
 ### ⭐ GitHub Stars
 
