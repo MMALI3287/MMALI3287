@@ -43,7 +43,7 @@
 
 <table width="100%" style="width: 100%; margin: 0 auto;">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 🔥 What I'm Working On
 
@@ -51,10 +51,9 @@
 - 🎮 **Unity Game Optimization**
 - 🐛 **Quality Assurance & Bug Testing** for 5+ applications
 - 🌐 **Enterprise Web Applications** with ASP.NET & React
-- 🎓 **Completing CSE Degree** @ AUST
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 ### 🎯 2025 Objectives
 
@@ -88,10 +87,9 @@
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -106,7 +104,7 @@
 ### 🗄️ Database & Cloud
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -167,8 +165,6 @@
 </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MMALI3287&layout=compact&theme=tokyonight&hide_border=true&langs_count=12" alt="Top Languages" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
@@ -177,7 +173,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MMALI3287&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MMALI3287&theme=tokyonight&no-frame=true&column=5&margin-w=25&margin-h=25" alt="GitHub Trophies" />
 
 ### 📈 Contribution Graph
 
@@ -224,11 +220,13 @@
 
 <div align="center">
 
+### 🌟 Daily Quote
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+time+to+plant+a+tree+was+20+years+ago.+The+second+best+time+is+now.&author=Chinese+Proverb" alt="Daily Quote" />
 
 ### 📚 Programming Wisdom
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
 
 </div>
 
@@ -250,7 +248,6 @@
 
 - 📱 **Developed Flutter modules** for mobile app development
 - 🐛 **Executed QA & bug testing** for 5+ hardware and software applications
-- 🎮 **Achieved 25% performance increase** in Unity game optimization
 - ✅ **Streamlined code review processes** for 10+ modules with 100% compliance
 - 👥 **Collaborated with senior engineers** on in-house mobile app projects
 - 🧩 **Applied OOP principles** to develop efficient and maintainable code
@@ -277,8 +274,7 @@ Flutter, Unity, Dart, C#, Object-Oriented Programming
 ### 🎓 **BSc in Computer Science and Engineering**
 
 **🏫 Ahsanullah University of Science and Technology (AUST)**  
-**📅 Jun 2021 - May 2025 | 📍 Tejgaon, Dhaka**  
-**📊 CGPA: 3.392**
+**📅 Jun 2021 - May 2025 | 📍 Tejgaon, Dhaka**
 
 ### 🏆 **Leadership Experience**
 
@@ -290,7 +286,7 @@ Flutter, Unity, Dart, C#, Object-Oriented Programming
 - Developed leadership through collaborative planning
 
 </td>
-<td width="40%" align="center" valign="top">
+<td width="40%" valign="top">
 
 ### 📜 **Certifications**
 
@@ -317,9 +313,9 @@ _April 2024_
 
 ## 🌍 Real-Time Information
 
-<div align="center">
+<div align="center" width="100%">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%">
 
@@ -330,13 +326,23 @@ _April 2024_
 </td>
 <td width="50%">
 
-### 🕐 Current Time
+### 🕐 Current Time & Date
 
-![Current Time](https://img.shields.io/badge/Current%20Time-Asia/Dhaka-blue?style=for-the-badge&logo=clock&logoColor=white)
+<div align="center">
 
-### 📅 Today's Date
+![Current Time](https://img.shields.io/badge/🕐%20Current%20Time-Loading...-blue?style=for-the-badge&logo=clock&logoColor=white)
 
-![Date](https://img.shields.io/date/1692673200?style=for-the-badge&logo=calendar&logoColor=white&label=Today)
+![Today's Date](https://img.shields.io/badge/📅%20Today-August%2012,%202025-green?style=for-the-badge&logo=calendar&logoColor=white)
+
+![Timezone](https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh%20(GMT+6)-orange?style=for-the-badge&logo=world&logoColor=white)
+
+<!-- Auto-updated every 30 minutes via GitHub Actions -->
+![Last Updated](https://img.shields.io/badge/⚡%20Auto%20Updates-Every%2030%20Minutes-purple?style=for-the-badge&logo=github-actions&logoColor=white)
+
+<!-- Real-time timezone info -->
+<img src="https://img.shields.io/badge/dynamic/json?color=2ea44f&style=for-the-badge&logo=clock&logoColor=white&label=TimeZone&query=$.abbreviation&url=https://worldtimeapi.org/api/timezone/Asia/Dhaka" alt="Current Timezone" />
+
+</div>
 
 </td>
 </tr>

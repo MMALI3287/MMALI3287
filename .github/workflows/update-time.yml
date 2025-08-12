@@ -1,0 +1,44 @@
+name: Update Time and Date
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger
+  push:
+    branches: [ master ]
+
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Update README with current time
+      run: |
+        # Get current time in Dhaka timezone
+        CURRENT_TIME=$(TZ='Asia/Dhaka' date '+%I:%M %p')
+        CURRENT_DATE=$(TZ='Asia/Dhaka' date '+%B %d, %Y')
+        CURRENT_DAY=$(TZ='Asia/Dhaka' date '+%A')
+        
+        # Update the time badges in README
+        sed -i "s|📅%20Today-.*-green|📅%20Today-${CURRENT_DATE// /%20}-green|g" README.md
+        sed -i "s|🕐%20Current%20Time-.*-blue|🕐%20Current%20Time-${CURRENT_TIME// /%20}%20${CURRENT_DAY// /%20}-blue|g" README.md
+        
+        # Also update any static date references
+        sed -i "s|Today-.*-green|Today-${CURRENT_DATE// /%20}-green|g" README.md
+        sed -i "s|Current%20Time-.*-blue|Current%20Time-${CURRENT_TIME// /%20}-blue|g" README.md
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🕐 Auto-update time: $(TZ='Asia/Dhaka' date '+%I:%M %p, %B %d, %Y')"
+          git push
+        fi
