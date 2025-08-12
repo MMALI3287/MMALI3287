@@ -321,17 +321,7 @@ _April 2024_
 
 ### 🌤️ Current Weather
 
-<!-- Modern Weather Badges -->
-![Weather Location](https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh-orange?style=for-the-badge&logo=location&logoColor=white)
-
-![Weather Status](https://img.shields.io/badge/🌤️%20Weather-Tropical%20Climate-brightgreen?style=for-the-badge&logo=sun&logoColor=white)
-
-![Temperature](https://img.shields.io/badge/�️%20Temperature-28°C%20-%2032°C-blue?style=for-the-badge&logo=thermometer&logoColor=white)
-
-![Humidity](https://img.shields.io/badge/💧%20Humidity-High%20(Monsoon%20Season)-lightblue?style=for-the-badge&logo=droplet&logoColor=white)
-
-<!-- Live weather link -->
-[![Live Weather](https://img.shields.io/badge/📊%20Live%20Weather%20Forecast-AccuWeather-red?style=for-the-badge&logo=weather&logoColor=white)](https://www.accuweather.com/en/bd/dhaka/28143/weather-forecast/28143)
+[![Weather](https://wttr.in/Dhaka.png?0&theme=dark)](https://wttr.in/Dhaka)
 
 </td>
 <td width="50%">
@@ -378,14 +368,14 @@ _April 2024_
 <img src="https://img.shields.io/github/stars/MMALI3287?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" />
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
 ### 👥 Followers
 
 <img src="https://img.shields.io/github/followers/MMALI3287?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers" />
 
 </td>
-<td width="25%">
+<td width="25%" align="center">
 
 ### 📦 Repositories
 
@@ -394,10 +384,6 @@ _April 2024_
 </td>
 </tr>
 </table>
-
-### 📊 Detailed Analytics
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MMALI3287&theme=tokyo_night" alt="Profile Summary" />
 
 </div>
 
@@ -454,10 +440,6 @@ _April 2024_
 **🎓 ScholarSphere (2023)** - PHP university admission platform with comprehensive features  
 **🏠 DecorateMyNest (2024)** - Full-stack interior design management system (ASP.NET + React)
 
-### 🌟 Repository Highlights
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MMALI3287&theme=tokyo_night" alt="Repos per Language" />
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
@@ -466,9 +448,65 @@ _April 2024_
 
 <div align="center">
 
-### 🎮 Play a Game!
+### 🎮 Interactive Gaming Experience
 
-[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MMALI3287/MMALI3287)
+<!-- HTML5 Games (embedded via iframe - works in some viewers) -->
+<details>
+<summary>🐍 <strong>Play Snake Game</strong> (Click to expand and play!)</summary>
+
+```html
+<!-- Embedded Snake Game -->
+<iframe src="https://playsnake.org/" width="400" height="400" frameborder="0"></iframe>
+```
+
+**Alternative:** [Play Snake in Browser →](https://www.google.com/search?q=snake+game+play+online)
+
+</details>
+
+<details>
+<summary>🎲 <strong>ASCII Art Tic-Tac-Toe</strong> (Static but fun!)</summary>
+
+```
+   |   |   
+-----------
+   |   |   
+-----------
+   |   |   
+
+Your move! Fork this repo and make your move in the grid above!
+```
+
+**Play Real Game:** [Tic-Tac-Toe Online →](https://playtictactoe.org/)
+
+</details>
+
+<details>
+<summary>🎯 <strong>Code Challenge</strong> (GitHub-based mini-game)</summary>
+
+**🧩 Programming Puzzle:**
+```python
+# Can you solve this in one line?
+# Find the sum of all even numbers from 1 to 100
+
+def solve():
+    # Your solution here
+    pass
+
+# Answer: sum(x for x in range(1, 101) if x % 2 == 0)
+```
+
+**Real Coding Challenges:** [CodinGame →](https://www.codingame.com/start)
+
+</details>
+
+<!-- Quick Games Section -->
+[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.google.com/search?q=snake+game+play+online)
+
+[![Tetris Game](https://img.shields.io/badge/🎲%20Tetris-Play%20Online-blue?style=for-the-badge&logo=gamepad&logoColor=white)](https://tetris.com/play-tetris)
+
+[![Coding Game](https://img.shields.io/badge/💻%20Coding%20Challenge-Test%20Skills-purple?style=for-the-badge&logo=code&logoColor=white)](https://www.codingame.com/start)
+
+[![2048 Game](https://img.shields.io/badge/🔢%202048%20Puzzle-Play%20Now-orange?style=for-the-badge&logo=gamepad2&logoColor=white)](https://play2048.co/)
 
 ### 💬 Ask Me Anything!
 
@@ -483,9 +521,6 @@ _April 2024_
 [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erfanali3287@gmail.com?subject=Hello%20Musaddique!)
 
 </td>
-<td align="center">
-
-[![Schedule Meeting](https://img.shields.io/badge/Schedule%20Meeting-0077B5?style=for-the-badge&logo=calendar&logoColor=white)](https://calendly.com/your-calendly)
 
 </td>
 <td align="center">
