@@ -191,30 +191,19 @@
 
 ## ⏰ Coding Time & Productivity
 
-<div align="center">
-
-<table style="width: 100%; height: 550px;">
-<tr>
-<td width="50%" valign="top" style="padding: 20px;">
+<div align="center" width="80%">
 
 ### 📅 WakaTime Stats
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287&theme=tokyonight&hide_border=true&layout=compact&langs_count=24&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=MMALI3287&theme=tokyonight&hide_border=true&layout=compact&langs_count=24" alt="WakaTime Stats" />
 
 <br><br>
-
-</td>
-<td width="50%" valign="top" style="padding: 20px;">
 
 ### 📊 Major Languages
 
 <img src="https://wakatime.com/share/@MMALI3287/4f60c130-7512-4a27-85f6-2a6b8082c99d.svg" alt="Major Languages Usage" />
 
-<br><br>
-
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
