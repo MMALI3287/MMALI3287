@@ -216,19 +216,23 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
-## 💡 Daily Quote & Inspiration
+## 🎲 Daily Quote & Fun Stuff
 
 <div align="center">
 
 ### 🌟 Daily Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+time+to+plant+a+tree+was+20+years+ago.+The+second+best+time+is+now.&author=Chinese+Proverb" alt="Daily Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 
 ### 📚 Programming Wisdom
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quotes" />
 
-</div>
+### 😄 Programming Humor
+
+<img src="https://readme-jokes.vercel.app/api?type=horizontal&theme=tokyonight&hideBorder" alt="Programming Joke" />
+
+_Refresh the page for a new joke! 😄_
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
 
@@ -450,63 +454,9 @@ _April 2024_
 
 ### 🎮 Interactive Gaming Experience
 
-<!-- HTML5 Games (embedded via iframe - works in some viewers) -->
-<details>
-<summary>🐍 <strong>Play Snake Game</strong> (Click to expand and play!)</summary>
-
-```html
-<!-- Embedded Snake Game -->
-<iframe src="https://playsnake.org/" width="400" height="400" frameborder="0"></iframe>
-```
-
-**Alternative:** [Play Snake in Browser →](https://www.google.com/search?q=snake+game+play+online)
-
-</details>
-
-<details>
-<summary>🎲 <strong>ASCII Art Tic-Tac-Toe</strong> (Static but fun!)</summary>
-
-```
-   |   |   
------------
-   |   |   
------------
-   |   |   
-
-Your move! Fork this repo and make your move in the grid above!
-```
-
-**Play Real Game:** [Tic-Tac-Toe Online →](https://playtictactoe.org/)
-
-</details>
-
-<details>
-<summary>🎯 <strong>Code Challenge</strong> (GitHub-based mini-game)</summary>
-
-**🧩 Programming Puzzle:**
-```python
-# Can you solve this in one line?
-# Find the sum of all even numbers from 1 to 100
-
-def solve():
-    # Your solution here
-    pass
-
-# Answer: sum(x for x in range(1, 101) if x % 2 == 0)
-```
-
-**Real Coding Challenges:** [CodinGame →](https://www.codingame.com/start)
-
-</details>
-
 <!-- Quick Games Section -->
-[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.google.com/search?q=snake+game+play+online)
 
-[![Tetris Game](https://img.shields.io/badge/🎲%20Tetris-Play%20Online-blue?style=for-the-badge&logo=gamepad&logoColor=white)](https://tetris.com/play-tetris)
-
-[![Coding Game](https://img.shields.io/badge/💻%20Coding%20Challenge-Test%20Skills-purple?style=for-the-badge&logo=code&logoColor=white)](https://www.codingame.com/start)
-
-[![2048 Game](https://img.shields.io/badge/🔢%202048%20Puzzle-Play%20Now-orange?style=for-the-badge&logo=gamepad2&logoColor=white)](https://play2048.co/)
+[![Snake Game](https://img.shields.io/badge/🐍%20Snake%20Game-Play%20Now!-success?style=for-the-badge&logo=gamepad&logoColor=white)](https://www.google.com/search?q=snake+game+play+online) [![Tetris Game](https://img.shields.io/badge/🎲%20Tetris-Play%20Online-blue?style=for-the-badge&logo=gamepad&logoColor=white)](https://tetris.com/play-tetris) [![Coding Game](https://img.shields.io/badge/💻%20Coding%20Challenge-Test%20Skills-purple?style=for-the-badge&logo=code&logoColor=white)](https://www.codingame.com/start) [![2048 Game](https://img.shields.io/badge/🔢%202048%20Puzzle-Play%20Now-orange?style=for-the-badge&logo=gamepad2&logoColor=white)](https://play2048.co/)
 
 ### 💬 Ask Me Anything!
 
@@ -533,76 +483,6 @@ def solve():
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
-
-## 📱 Latest Activity
-
-<div align="center">
-
-### 🔥 GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-### 🎥 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
-
-## 🎲 Fun Stuff
-
-<div align="center">
-
-### 😄 Programming Humor
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Programming Joke" />
-
-_Refresh the page for a new joke! 😄_
-
-### 🎪 Random Dev Meme
-
-[![Memes](https://memes.digitalwellbeing.org/api/v1/render/meme/9bafe1f1-d0a5-4a94-a78c-0e17e0f6b5a9)](https://memes.digitalwellbeing.org/api/v1/render/meme/9bafe1f1-d0a5-4a94-a78c-0e17e0f6b5a9)
-
-### 🎯 Fun Facts
-
-<img src="https://uselessfacts.jsph.pl/random.json?language=en" alt="Random Fact" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
-
-## 📊 Detailed GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/MMALI3287?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&discussions=1&followup=1&lines=1&repositories=1&activity=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=true&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&followup.sections=repositories&followup.indepth=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka" alt="Detailed GitHub Metrics" />
-
-### 🔥 GitHub Streaks & Stats
-
-<table>
-<tr>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MMALI3287&theme=tokyo_night" alt="Stats" />
-
-</td>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MMALI3287&theme=tokyo_night&utcOffset=6" alt="Productive Time" />
-
-</td>
-</tr>
-</table>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
@@ -614,10 +494,11 @@ _Refresh the page for a new joke! 😄_
 ### 💖 If you like my work, consider supporting me!
 
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MMALI3287)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mmali3287)
+
+<!-- [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mmali3287)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mmali3287)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/mmali3287)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mmali3287)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mmali3287) -->
 
 ### ⭐ Give a star to my repositories if you find them useful!
 
@@ -641,45 +522,10 @@ _Refresh the page for a new joke! 😄_
 [![Mobile Projects](https://img.shields.io/badge/Mobile-Apps-green?style=for-the-badge&logo=flutter)](https://github.com/MMALI3287?tab=repositories&q=flutter&type=&language=&sort=)
 
 </td>
-</tr>
-</table>
+<td align="center">
 
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow separator">
-
-## 🏅 Professional Certifications & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Certifications
-
-![IT Engineers FE](https://img.shields.io/badge/IT%20Engineers%20FE-April%202024-success?style=for-the-badge&logo=certificate&logoColor=white)
-![AUST CSE](https://img.shields.io/badge/AUST%20CSE-CGPA%203.392-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Professional](https://img.shields.io/badge/Software%20Engineer-3%20Years-green?style=for-the-badge&logo=briefcase&logoColor=white)
-
-**Information Technology Engineers Examination (FE)**  
-_Bangladesh IT-engineers Examination Center - April 2024_
-
-</td>
-<td width="50%">
-
-### 🏆 Achievements & Recognition
-
-![Leadership](https://img.shields.io/badge/AUST%20Robotics%20Club-Executive%20Member-orange?style=for-the-badge&logo=robot&logoColor=white)
-![Performance](https://img.shields.io/badge/Unity%20Optimization-25%25%20Boost-purple?style=for-the-badge&logo=unity&logoColor=white)
-![Quality](https://img.shields.io/badge/Code%20Review-100%25%20Compliance-brightgreen?style=for-the-badge&logo=check-circle&logoColor=white)
-
-**Professional Achievements:**
-
-- 🎮 25% Unity performance optimization
-- 🐛 QA testing for 5+ applications
-- ✅ 100% code review compliance
-- 👥 AUSTRC National Fest organizer
+**💻 Java Projects**  
+[![Java Projects](https://img.shields.io/badge/Java-Projects-red?style=for-the-badge&logo=java)](https://github.com/MMALI3287?tab=repositories&q=java&type=&language=&sort=)
 
 </td>
 </tr>
@@ -695,27 +541,24 @@ _Bangladesh IT-engineers Examination Center - April 2024_
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-[![Website](https://img.shields.io/badge/🌐-Website-FF5722?style=for-the-badge)](https://mmali3287.github.io/)
+[![Website](https://img.shields.io/badge/🌐-Website-FF5722?style=for-the-badge)](https://musaddiqueali.com/)
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 [![Resume](https://img.shields.io/badge/📄-Resume-blue?style=for-the-badge)](https://github.com/MMALI3287/MMALI3287.github.io/blob/master/assets/images/resume.pdf)
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 [![Projects](https://img.shields.io/badge/🚀-Projects-purple?style=for-the-badge)](https://github.com/MMALI3287?tab=repositories)
 
 </td>
-<td align="center" width="20%">
-
-[![Blog](https://img.shields.io/badge/📝-Blog-green?style=for-the-badge)](#)
 
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 [![Contact](https://img.shields.io/badge/📧-Contact-red?style=for-the-badge)](mailto:erfanali3287@gmail.com)
 
