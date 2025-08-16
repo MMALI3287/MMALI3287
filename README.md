@@ -323,9 +323,9 @@ _April 2024_
 
 <!-- These badges will be auto-updated by GitHub Actions every 30 minutes -->
 
-![Current Time](https://img.shields.io/badge/🕐%20Current%20Time-11:12%20PM-blue?style=for-the-badge&logo=clock&logoColor=white)
+![Current Time](https://img.shields.io/badge/🕐%20Current%20Time-12:20%20AM-blue?style=for-the-badge&logo=clock&logoColor=white)
 
-![Today's Date](https://img.shields.io/badge/📅%20Today-August%2016%2C%202025-green?style=for-the-badge&logo=calendar&logoColor=white)
+![Today's Date](https://img.shields.io/badge/📅%20Today-August%2017%2C%202025-green?style=for-the-badge&logo=calendar&logoColor=white)
 
 ![Timezone](<https://img.shields.io/badge/🌍%20Location-Dhaka,%20Bangladesh%20(GMT+6)-orange?style=for-the-badge&logo=world&logoColor=white>)
 
